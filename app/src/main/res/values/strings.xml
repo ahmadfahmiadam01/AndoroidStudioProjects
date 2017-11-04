@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">mysunshine indonesia</string>
+    <string name="app_name">MySunshineIndonesia</string>
+    <string name="weather_day_title">Sunday</string>
+    <string name="weather_desc">HUjan RIntik Rintik</string>
 </resources>
